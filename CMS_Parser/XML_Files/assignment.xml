@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AssignmentRecords xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<assignments>
+		<assignmentid>1</assignmentid>
+		<text>build XML Files for all entities in your project with some test data.</text>
+		<courseid>1</courseid>
+		<dateposted>2017-09-15</dateposted>
+		<duedate>2017-09-20</duedate>
+	</assignments>
+	<assignments>
+		<assignmentid>2</assignmentid>
+		<text>build parser.</text>
+		<courseid>1</courseid>
+		<dateposted>2017-09-24</dateposted>
+		<duedate>2017-09-30</duedate>
+	</assignments>
+	<assignments>
+		<assignmentid>3</assignmentid>
+		<text>jdbc code</text>
+		<courseid>1</courseid>
+		<dateposted>2017-09-25</dateposted>
+		<duedate>2017-10-01</duedate>
+	</assignments>
+	<assignments>
+		<assignmentid>4</assignmentid>
+		<text>Write Program 1</text>
+		<courseid>2</courseid>
+		<dateposted>2017-09-26</dateposted>
+		<duedate>2017-10-02</duedate>
+	</assignments>
+	<assignments>
+		<assignmentid>5</assignmentid>
+		<text>Write Program 2</text>
+		<courseid>2</courseid>
+		<dateposted>2017-09-27</dateposted>
+		<duedate>2017-10-03</duedate>
+	</assignments>
+	<assignments>
+		<assignmentid>6</assignmentid>
+		<text>Write Program 3</text>
+		<courseid>1</courseid>
+		<dateposted>2017-09-28</dateposted>
+		<duedate>2017-10-04</duedate>
+	</assignments>
+	<assignments>
+		<assignmentid>7</assignmentid>
+		<text>Write Program 4</text>
+		<courseid>1</courseid>
+		<dateposted>2017-09-29</dateposted>
+		<duedate>2017-10-05</duedate>
+	</assignments>
+	<assignments>
+		<assignmentid>8</assignmentid>
+		<text>Write Program 5</text>
+		<courseid>3</courseid>
+		<dateposted>2017-09-30</dateposted>
+		<duedate>2017-10-06</duedate>
+	</assignments>
+	<assignments>
+		<assignmentid>9</assignmentid>
+		<text>Write Program 6</text>
+		<courseid>4</courseid>
+		<dateposted>2017-10-01</dateposted>
+		<duedate>2017-10-07</duedate>
+	</assignments>
+	<assignments>
+		<assignmentid>10</assignmentid>
+		<text>Write Program 7</text>
+		<courseid>5</courseid>
+		<dateposted>2017-10-02</dateposted>
+		<duedate>2017-10-08</duedate>
+	</assignments>
+</AssignmentRecords>

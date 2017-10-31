@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ResourceRecords xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<resources>
+		<resourceid>1</resourceid>
+		<name>JEE</name>
+		<type>textbook</type>
+		<courseid>1</courseid>
+	</resources>
+	<resources>
+		<resourceid>2</resourceid>
+		<name>xyz.net</name>
+		<type>link</type>
+		<courseid>1</courseid>
+	</resources>
+	<resources>
+		<resourceid>3</resourceid>
+		<name>abcd</name>
+		<type>doc</type>
+		<courseid>2</courseid>
+	</resources>
+	<resources>
+		<resourceid>4</resourceid>
+		<name>xyz</name>
+		<type>doc</type>
+		<courseid>4</courseid>
+	</resources>
+	<resources>
+		<resourceid>5</resourceid>
+		<name>Python</name>
+		<type>textbook</type>
+		<courseid>2</courseid>
+	</resources>
+	<resources>
+		<resourceid>6</resourceid>
+		<name>Intro to Java</name>
+		<type>textbook</type>
+		<courseid>3</courseid>
+	</resources>
+	<resources>
+		<resourceid>7</resourceid>
+		<name>abcd</name>
+		<type>doc</type>
+		<courseid>3</courseid>
+	</resources>
+</ResourceRecords>

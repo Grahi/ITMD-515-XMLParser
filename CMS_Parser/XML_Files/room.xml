@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RoomRecords xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<rooms>
+		<roomid>1</roomid>
+		<name>IIT SB 204</name>
+	</rooms>
+	<rooms>
+		<roomid>2</roomid>
+		<name>IIT SB 205</name>
+	</rooms>
+	<rooms>
+		<roomid>3</roomid>
+		<name>IIT SB 206</name>
+	</rooms>
+	<rooms>
+		<roomid>4</roomid>
+		<name>IIT SB 207</name>
+	</rooms>
+	<rooms>
+		<roomid>5</roomid>
+		<name>IIT SB 208</name>
+	</rooms>
+	<rooms>
+		<roomid>6</roomid>
+		<name>IIT SB 209</name>
+	</rooms>
+	<rooms>
+		<roomid>7</roomid>
+		<name>IIT SB 210</name>
+	</rooms>
+	<rooms>
+		<roomid>8</roomid>
+		<name>IIT SB 211</name>
+	</rooms>
+	<rooms>
+		<roomid>9</roomid>
+		<name>IIT SB 212</name>
+	</rooms>
+	<rooms>
+		<roomid>10</roomid>
+		<name>IIT SB 213</name>
+	</rooms>
+</RoomRecords>

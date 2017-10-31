@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courserecords xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<course>
+		<courseid>1</courseid>
+		<coursename>Advance Java</coursename>
+		<location>IIT SB 204</location>
+	</course>
+	<course>
+		<courseid>2</courseid>
+		<coursename>Intro to Java</coursename>
+		<location>IIT SB 205</location>
+	</course>
+	<course>
+		<courseid>3</courseid>
+		<coursename>Service Oriented Arch.</coursename>
+		<location>IIT SB 206</location>
+	</course>
+	<course>
+		<courseid>4</courseid>
+		<coursename>Database Design</coursename>
+		<location>IIT SB 207</location>
+	</course>
+	<course>
+		<courseid>5</courseid>
+		<coursename>Data Warehousing</coursename>
+		<location>IIT SB 208</location>
+	</course>
+	<course>
+		<courseid>6</courseid>
+		<coursename>Python</coursename>
+		<location>IIT SB 209</location>
+	</course>
+	<course>
+		<courseid>7</courseid>
+		<coursename>Software Testing</coursename>
+		<location>IIT SB 210</location>
+	</course>
+</courserecords>
